@@ -1,0 +1,45 @@
+
+|-*-*-START-*-*-|
+
+ Insert first string: 
+ Insert second string: 
+ Insert index you want to stop comparing: 
+ Insert char you want to search for:
+
+|-*-*-RESULTS-*-*-|
+
+ my_strcmp(sdfgh,asd) = 18
+ my_strncmp(sdfgh, asd, 3) = 18
+ my_strchr(sdfgh,d) = 1
+ my_strchr(asd,d) = 2
+|-*-*-END-*-*-|
+
+|-*-*-START-*-*-|
+
+ Insert first string: 
+ Insert second string: 
+ Insert index you want to stop comparing: 
+ Insert char you want to search for:
+
+|-*-*-RESULTS-*-*-|
+
+ my_strcmp(asdfg,asdfg) = 0
+ my_strncmp(asdfg, asdfg, 10) = 0
+ my_strchr(asdfg,d) = 2
+ my_strchr(asdfg,d) = 2
+|-*-*-END-*-*-|
+
+|-*-*-START-*-*-|
+
+ Insert first string: 
+ Insert second string: 
+ Insert index you want to stop comparing: 
+ Insert char you want to search for:
+
+|-*-*-RESULTS-*-*-|
+
+ my_strcmp(nchdye,nbygjt) = 1
+ my_strncmp(nchdye, nbygjt, 1) = 0
+ my_strchr(nchdye,y) = 4
+ my_strchr(nbygjt,y) = 2
+|-*-*-END-*-*-|
